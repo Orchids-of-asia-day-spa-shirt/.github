@@ -1,16 +1,4 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
-The “Orchids of Asia Day Spa” Shirt: How a Scandal Became a Cultural Artifact
+orchids of asia day spa shirt
 Introduction
 In the world of pop culture, certain phrases, images, or locations unexpectedly become part of the collective memory. Sometimes it’s because of a viral moment, sometimes because of a celebrity connection, and sometimes because of a scandal that captures national attention. The phrase “Orchids of Asia Day Spa” is one of those cultural flashpoints — a name that, for many people, instantly evokes a specific moment in American news history.
 
